@@ -1,5 +1,5 @@
 {
   "aws_access_key": "",
   "aws_secret_key": "",
-  "TEAMCITY_SERVER": ""
+  "TEAMCITY_SERVER": "http://teamcity.yousite.com"
 }
